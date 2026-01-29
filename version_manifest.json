@@ -1,0 +1,64 @@
+{
+    "latest": {
+        "release": "",
+        "snapshot": "",
+        "_comment": "For compatibility only."
+    },
+    "versions": [
+        {
+            "id": "survival-test",
+            "type": "old_alpha",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/survivaltest/survivaltest.json"
+        },
+        {
+            "id": "c0.023a_01",
+            "type": "old_alpha",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/c0.023a_01/c0.0.23a_01.json"
+        },
+        {
+            "id": "combat-test",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_14_combat-212796.json"
+        },
+        {
+            "id": "combat-test-2",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_14_combat-0.json"
+        },
+        {
+            "id": "combat-test-3",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_14_combat-3.json"
+        },
+        {
+            "id": "combat-test-4",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_15_combat-1.json"
+        },
+        {
+            "id": "combat-test-5",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_15_combat-6.json"
+        },
+        {
+            "id": "combat-test-6",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_16_combat-0.json"
+        },
+        {
+            "id": "combat-test-7c",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_16_combat-3.json"
+        },
+        {
+            "id": "combat-test-8b",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_16_combat-5.json"
+        },
+        {
+            "id": "combat-test-8c",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/1_16_combat-6.json"
+        }
+    ]
+}

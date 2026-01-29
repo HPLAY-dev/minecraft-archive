@@ -24,7 +24,6 @@ Mostly, from Reddit.
 3. Download the files of the version using your launcher using `Repair Files`(补全文件 in Chinese).
 4. Enjoy it.
 We also provide a `version_manifest.json` with the versions included. see [version_manifest.json](version_manifest.json)
-   
-## Comments
+
 [^1]: Unfortunately, this file is hard to be found. So that I' ve downloaded it on [indiedb.com](https://www.indiedb.com/games/minecraft/downloads/minecraft-survival-test-030-2018-edition). Although I' ve checked, you still need to be careful using it.
 [^2]: Although MOJANG uploaded the builds of many Minecraft ancient versions. They didn' t upload their `version.json`. You may need to use some nearby versions' `version.json` in order to launch these versions.

@@ -2,6 +2,13 @@
   "id": "survivaltest",
   "time": "2013-08-06T17:33:30+03:00",
   "releaseTime": "2009-12-22T00:00:00+02:00",
+  "downloads": {
+    "client": {
+      "sha1": "31d375c85a568e96eb71464bd34c37cac6cdd490",
+      "size": 291634,
+      "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/versions/survivaltest/survivaltest.jar"
+    }
+  },
   "type": "old_alpha",
   "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets} --tweakClass net.minecraft.launchwrapper.AlphaVanillaTweaker",
   "libraries": [

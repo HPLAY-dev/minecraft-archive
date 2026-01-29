@@ -3,6 +3,13 @@
   "time": "2013-08-06T15:33:30+01:00",
   "releaseTime": "2009-05-28T23:11:11+01:00",
   "type": "old_alpha",
+  "downloads": {
+      "client": {
+          "sha1": "7fe146430931ff9066ac561869e64d756046de9d",
+          "size": 213342,
+          "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/c0.023a_01/c0.0.23a_01.jar"
+      }
+  },
   "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets} --tweakClass net.minecraft.launchwrapper.AlphaVanillaTweaker",
   "libraries": [
     {
