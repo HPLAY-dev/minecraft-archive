@@ -3,7 +3,7 @@ This repo contains a set of official Minecraft Versions which are not included o
 ![Minecraft 0.0.13a running](assets/0.0.13a.png "Minecraft 0.0.13a running")
 
 ## Where?
-Mainly from Jeb_'s Reddit & archive.org.
+Jeb_'s Reddit(Combat test) & archive.org.
 
 ## Versions Index
 |Version Name|File Name|url
@@ -25,7 +25,7 @@ Mainly from Jeb_'s Reddit & archive.org.
 1. Make a directory in your `.minecraft/versions`, like `.minecraft/versions/combat`
 2. Copy one of the `.json` files into the directory, name it with the same name of your version, like `combat.json`
 3. Download the files of the version using your launcher using `Repair Files`(补全文件 in Chinese).
-4. **If it still fail to launch, you should download the jar manually, from the `"downloads"` key in your `version.json`. Save with the same name of your json (abc.json+abc.jar in the same folder). And Disable the file check of the launcher.**
+4. **If it still fail to launch, you should download the jar manually, from the `"downloads"` key in your `version.json`. Save with the same name of your json (abc.json+abc.jar in the same folder). And Disable the file check of the launcher. You can add a issue since this is probably my fault...**
 5. Enjoy it.
 We also provide a [version_manifest.json]("https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/version_manifest.json") with the versions included. Inside this `.json` file, `version.json` are modified in order to make launchers know where to download the `client.jar` file.
 
