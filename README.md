@@ -1,8 +1,11 @@
 # Minecraft Version Extended
 This repo contains a set of official Minecraft Versions which are not included on the official manifest. That means most Minecraft Launchers can not find them and run them.
-## Versions Index
+![Minecraft 0.0.13a running](assets/0.0.13a.png "Minecraft 0.0.13a running")
+
 ## Where?
-Mostly, from Reddit.
+Mainly from Jeb_'s Reddit & archive.org.
+
+## Versions Index
 |Version Name|File Name|url
 |:-----------|:-------:|--:|
 |Combat Test 8c|1_16_combat-6.json|[Reddit](https://www.reddit.com/r/minecraftnews/comments/ih501x/combat_test_snapshot_8c_is_now_available_to/)
@@ -22,8 +25,9 @@ Mostly, from Reddit.
 1. Make a directory in your `.minecraft/versions`, like `.minecraft/versions/combat`
 2. Copy one of the `.json` files into the directory, name it with the same name of your version, like `combat.json`
 3. Download the files of the version using your launcher using `Repair Files`(补全文件 in Chinese).
-4. Enjoy it.
+4. **If it still fail to launch, you should download the jar manually, from the `"downloads"` key in your `version.json`. Save with the same name of your json (abc.json+abc.jar in the same folder). And Disable the file check of the launcher.**
+5. Enjoy it.
 We also provide a [version_manifest.json]("https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/version_manifest.json") with the versions included. Inside this `.json` file, `version.json` are modified in order to make launchers know where to download the `client.jar` file.
 
-[^1]: Unfortunately, this file is hard to be found. So that I' ve downloaded it on [indiedb.com](https://www.indiedb.com/games/minecraft/downloads/minecraft-survival-test-030-2018-edition). Although I' ve checked, you still need to be careful using it.
-[^2]: Although MOJANG uploaded the builds of many Minecraft ancient versions. They didn' t upload their `version.json`. You may need to use some nearby versions' `version.json` in order to launch these versions.
+[^1]: Unfortunately, this file is hard to be found. So that I've downloaded it on [indiedb.com](https://www.indiedb.com/games/minecraft/downloads/minecraft-survival-test-030-2018-edition). Although I've checked, you still need to be careful using it.
+[^2]: Although MOJANG uploaded the builds of many Minecraft ancient versions. They didn't upload their `version.json`. You may need to use some nearby versions'`version.json` in order to launch these versions. I will try to make some of the versions runable by making jsons.
