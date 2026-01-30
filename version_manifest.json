@@ -59,6 +59,11 @@
             "id": "combat-test-8c",
             "type": "snapshot",
             "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/1_16_combat-6.json"
+        },
+        {
+            "id": "0.0.13-dev-client",
+            "type": "old_alpha",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/0.0.13-dev-client/0.0.13-dev-client.json"
         }
     ]
 }
