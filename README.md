@@ -23,12 +23,16 @@ Jeb_'s Reddit(Combat test) & archive.org.
 |A LOT OF VERSIONS[^2]|...|...|[archive.org](https://archive.org/details/minecraftjavaeditionarchive)
 
 ## How to use?
-1. Make a directory in your `.minecraft/versions`, like `.minecraft/versions/combat`
-2. Copy one of the `.json` files into the directory, name it with the same name of your version, like `combat.json`
-3. Download the files of the version using your launcher using `Repair Files`(补全文件 in Chinese).
-4. **If it still fail to launch, you should download the jar manually, from the `"downloads"` key in your `version.json`. Save with the same name of your json (abc.json+abc.jar in the same folder). And Disable the file check of the launcher. You can add a issue since this is probably my fault...**
-5. Enjoy it.
+1. Find a version if `Versions` folder.
+2. Move the folder into `.minecraft` or `.minecraft/versions`
+3. ~~Download the files of the version using your launcher using `Repair Files`(补全文件 in Chinese).~~(Just click Launch and your launcher should do it automatically.)
+4. Enjoy it.
+If it still fail to launch, you should download the jar manually, from the `"downloads"` key in your `version.json`. Save with the same name of your json (abc.json+abc.jar in the same folder). And Disable the file check of the launcher. You can add a issue since this is probably my fault...
+
 We also provide a [version_manifest.json]("https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/blob/main/version_manifest.json") with the versions included. Inside this `.json` file, `version.json` are modified in order to make launchers know where to download the `client.jar` file.
+
+## How to add? (Standard)
+Copy the jar file into `Versions/${ID}`, add the ID's `version.json`(from similar versions), change `id` `downloads.client&sha1&size`(use script sha1.ps1).
 
 [^1]: Unfortunately, this file is hard to be found. So that I've downloaded it on [indiedb.com](https://www.indiedb.com/games/minecraft/downloads/minecraft-survival-test-030-2018-edition). Although I've checked, you still need to be careful using it.
 [^2]: Although MOJANG uploaded the builds of many Minecraft ancient versions. They didn't upload their `version.json`. You may need to use some nearby versions'`version.json` in order to launch these versions. I will try to make some of the versions runable by making jsons.
