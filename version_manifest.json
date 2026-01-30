@@ -64,6 +64,46 @@
             "id": "0.0.13-dev-client",
             "type": "old_alpha",
             "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/0.0.13-dev-client/0.0.13-dev-client.json"
+        },
+        {
+            "id": "2.0-blue",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/2.0/2.0-blue.json"
+        },
+        {
+            "id": "2.0-purple",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/2.0/2.0-purple.json"
+        },
+        {
+            "id": "2.0-red",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/2.0/2.0-red.json"
+        },
+        {
+            "id": "11w47a",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/11w47a/11w47a.json"
+        },
+        {
+            "id": "11w50a",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/11w50a/11w50a.json"
+        },
+        {
+            "id": "1.0.0-rc1",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/1.0.0-rc1/1.0.0-rc1.json"
+        },
+        {
+            "id": "1.0.0-rc2-1656",
+            "type": "snapshot",
+            "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/1.0.0-rc2/1.0.0-rc2-1656.json"
+        },
+        {
+            "id": "in-20091223-2",
+            "type": "old_alpha",
+            "url":"https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/in-20091223-2/in-20091223-2.json"
         }
     ]
 }
