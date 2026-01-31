@@ -12,7 +12,7 @@
     "client": {
       "sha1": "936d575b1ab1a04a341ad43d76e441e88d2cd987",
       "size": 97935,
-      "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/Versions/0.0.13-dev-client/0.0.13-dev-client.jar.zip"
+      "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/0.0.13-dev-client/0.0.13-dev-client.jar"
     }
   },
   "id": "0.0.13-dev-client",
