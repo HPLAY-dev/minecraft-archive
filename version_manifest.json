@@ -61,7 +61,7 @@
             "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/1_16_combat-6.json"
         },
         {
-            "id": "0.0.13-dev-client",
+            "id": "0.0.13-dev",
             "type": "old_alpha",
             "url": "https://raw.githubusercontent.com/HPLAY-dev/minecraft-archive/main/versions/0.0.13-dev/0.0.13-dev.json"
         },
